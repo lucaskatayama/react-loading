@@ -1,7 +1,7 @@
 {
   "name": "react-loading",
   "version": "1.0.0",
-  "main": "dist/index.js",
+  "main": "dist/index.react.js",
   "author": "Lucas Katayama <lucaskatayama@gmail.com> (http://lucaskatayama.com/)",
   "license": "MIT",
   "scripts": {
@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
+    "babel-plugin-uglify": "^1.0.2",
     "babel-preset-latest": "^6.16.0",
     "babel-preset-react": "^6.16.0",
     "babel-preset-stage-0": "^6.16.0"

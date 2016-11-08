@@ -1,3 +1,5 @@
 {
-  "presets" : ["latest", "stage-0", "react"]
+  "presets" : ["latest", "stage-0", "react"],
+  "minified": true,
+  "sourceMap": true
 }
